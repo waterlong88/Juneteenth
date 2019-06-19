@@ -2,3 +2,4 @@ june 19th
 learning git at Stanford
 second change
 third change
+bad change
