@@ -3,3 +3,4 @@ learning git at Stanford
 second change
 third change
 bad change
+try for checkout
