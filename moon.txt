@@ -1,2 +1,3 @@
 june 19th
-learning git
+learning git at Stanford
+second change
